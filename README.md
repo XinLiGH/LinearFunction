@@ -1,6 +1,6 @@
 # LinearFunction
 
-线性函数，C语言实现方式。程序中涉及到线性函数的概念，详细介绍见维基百科[Linear function](https://en.wikipedia.org/wiki/Linear_function)。
+线性函数，C语言方式实现。程序中涉及到线性函数的概念，详细介绍见维基百科[Linear function](https://en.wikipedia.org/wiki/Linear_function)。
 
 ## 开发环境
 
@@ -24,4 +24,4 @@
 
 ## 运行效果
 
-![](https://github.com/XinLiGitHub/LinearFunction/raw/master/LinearFunction/LinearFunction/LinearFunction.jpg)
+![](https://github.com/XinLiGH/LinearFunction/raw/master/LinearFunction/LinearFunction/LinearFunction.jpg)
