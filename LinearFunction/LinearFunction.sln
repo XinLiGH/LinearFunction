@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearFunction", "LinearFunction\LinearFunction.vcxproj", "{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Debug|x64.ActiveCfg = Debug|x64
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Debug|x64.Build.0 = Debug|x64
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Debug|x86.Build.0 = Debug|Win32
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Release|x64.ActiveCfg = Release|x64
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Release|x64.Build.0 = Release|x64
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Release|x86.ActiveCfg = Release|Win32
+		{DF293DD0-B6A1-4BD5-8040-43F764C61FBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE53DE4C-9380-4C19-B384-B823299A828C}
+	EndGlobalSection
+EndGlobal
